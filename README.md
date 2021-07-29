@@ -2,9 +2,9 @@
 
 프로젝트명 : 마이크로프로세서를 이용한 가위바위보 게임 프로젝트
 
-사용언어 : C
+사용 언어 : C
 
-사용 프로그램 : Visual Studio, MIDE-51
+사용 IDE : Visual Studio, MIDE-51
 
 사용 하드웨어 : 마이크로프로세서 8051 계열 AT89S52 SD-52 Training Board
 
